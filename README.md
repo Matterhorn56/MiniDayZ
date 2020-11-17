@@ -12,6 +12,7 @@ The link is in the description of this repository, but here it is again. [MDZ](h
 * Touch devices are untested, and the app *is* **much** better in terms of performance, support, features (watch ad to get lootbox), etc.
   * [Apple](https://itunes.apple.com/ca/app/mini-dayz-survival-game/id1141343378 "Apple/iOS")
   * [Android](https://play.google.com/store/apps/details?id=com.bistudio.minidayz "Android")
+* Movement by tapping/drawing is recommended for mouse.
 
 #### How did you do this?
 After a little research, I found that the Android version of the game uses the Cordova framework. From there, extracting the .apk and utilizing Cordova CLI (Command Line Interface) enabled me to build the app for Windows (Linux and Mac are possible this way too!). I played this for a while and decided to port it to Chrome as an app, but ultimately I found that hosting the index.html in the www folder from the extracted apk was a better idea (no install, accessible anywhere, anyone can play). Github Pages was a pretty good way to host this, and here it is. 
