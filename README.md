@@ -8,6 +8,7 @@ To be clear, **aside from this readme, none of the content on this repository is
 
 #### How do I play?
 The link is in the description of this repository, but here it is again. [MDZ](https://matterhorn56.github.io/MiniDayZ/ "Mini DAYZ")
+* Make sure to F11 (Fullscreen) before the game loads.
 * As far as I know, game progress is saved locally; a playthrough can be resumed from the same device.
 * Touch devices are untested, and the app *is* **much** better in terms of performance, support, features (watch ad to get lootbox), etc.
   * [Apple](https://itunes.apple.com/ca/app/mini-dayz-survival-game/id1141343378 "Apple/iOS")
